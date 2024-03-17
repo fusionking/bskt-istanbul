@@ -112,3 +112,6 @@ report_unittest.xml
 *.rdb
 
 .idea/
+
+.DS_Store
+.DS_Store
